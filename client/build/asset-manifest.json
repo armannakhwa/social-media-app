@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9ceb209.chunk.css",
+    "main.js": "/static/js/main.d3e887b4.chunk.js",
+    "main.js.map": "/static/js/main.d3e887b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ed9d98e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ed9d98e.js.map",
+    "static/css/2.d34346ea.chunk.css": "/static/css/2.d34346ea.chunk.css",
+    "static/js/2.c8cf359c.chunk.js": "/static/js/2.c8cf359c.chunk.js",
+    "static/js/2.c8cf359c.chunk.js.map": "/static/js/2.c8cf359c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a3d2880839c051550ea7fcbaab8b641.js": "/precache-manifest.2a3d2880839c051550ea7fcbaab8b641.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.e9ceb209.chunk.css.map": "/static/css/main.e9ceb209.chunk.css.map",
+    "static/js/2.c8cf359c.chunk.js.LICENSE.txt": "/static/js/2.c8cf359c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/todo_cover.29983460.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed9d98e.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.c8cf359c.chunk.js",
+    "static/css/main.e9ceb209.chunk.css",
+    "static/js/main.d3e887b4.chunk.js"
+  ]
+}
